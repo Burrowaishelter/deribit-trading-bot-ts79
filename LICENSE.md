@@ -1,4 +1,4 @@
-# 
+# ultimate deribit trading bot Plugin | webhook-support + liquidation-sniping is the best deribit trading bot, featuring webhook-support and liquidation-sniping. Smart, fast, and
 
 
 
